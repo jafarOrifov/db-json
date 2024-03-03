@@ -1,0 +1,106 @@
+{
+    "devices": [
+      {
+        "id": "2c8e",
+        "model": "dqw",
+        "produced_year": "19.03.2024",
+        "category": "Food",
+        "rec_price": "40000",
+        "description": "done",
+        "created_date": "03.03.2024",
+        "is_active": false,
+        "img": ""
+      },
+      {
+        "id": "86f4",
+        "model": "dqw",
+        "produced_year": "04.03.2024",
+        "category": "Food",
+        "rec_price": "40000",
+        "description": "done",
+        "created_date": "03.03.2024",
+        "is_active": false,
+        "img": ""
+      },
+      {
+        "id": "4491",
+        "model": "dqw",
+        "produced_year": "04.03.2024",
+        "category": "Food",
+        "rec_price": "400003",
+        "description": "done",
+        "created_date": "03.03.2024",
+        "is_active": false,
+        "img": ""
+      },
+      {
+        "id": "efeb",
+        "model": "dqw",
+        "produced_year": "04.03.2024",
+        "category": "Food",
+        "rec_price": "40000",
+        "description": "done",
+        "created_date": "03.03.2024",
+        "is_active": false,
+        "img": ""
+      },
+      {
+        "id": "84ee",
+        "model": "dwd",
+        "produced_year": "04.03.2024",
+        "category": "Device",
+        "rec_price": "3232",
+        "description": "fwqefwq",
+        "created_date": "03.03.2024",
+        "is_active": true,
+        "img": ""
+      },
+      {
+        "id": "c372",
+        "model": "dwd",
+        "produced_year": "04.03.2024",
+        "category": "Device",
+        "rec_price": "3232",
+        "description": "fwqefwq",
+        "created_date": "03.03.2024",
+        "is_active": true,
+        "img": ""
+      },
+      {
+        "id": "a014",
+        "model": "test",
+        "produced_year": "04.03.2024",
+        "category": "Device",
+        "rec_price": "222222",
+        "description": "fwef",
+        "created_date": "03.03.2024",
+        "is_active": true,
+        "img": ""
+      },
+      {
+        "id": "d65e",
+        "model": "dqwd",
+        "produced_year": "05.03.2024",
+        "category": "Food",
+        "rec_price": "3232",
+        "description": "dwqd",
+        "created_date": "03.03.2024",
+        "is_active": true,
+        "img": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": "2c8e",
+        "name": "Car"
+      },
+      {
+        "id": "a014",
+        "name": "Electronic"
+      },
+      {
+        "id": "c372",
+        "name": "Mobile"
+      }
+    ]
+  }
